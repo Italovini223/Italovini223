@@ -23,6 +23,7 @@
   <img align='center' alt='python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
    <img align='center' alt='Jupyter' src='https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter'>
    <img align='center' alt='Jest' src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'>
+   <img align='center' alt='MongoDB' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'>
 </div><br/>
 
 
