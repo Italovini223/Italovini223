@@ -18,4 +18,11 @@
   <img align='center' alt='node' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
 </div><br/>
 
+## Tecnologias em estudo 
+<div style='display: inline_block'><br/>
+  <img align='center' alt='python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'>
+   <img align='center' alt='Jupyter' src='https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter'>
+</div><br/>
+
+
 Apaixonado por tecnologia e tentando fazer do mundo um lugar melhor com ela.
